@@ -1,22 +1,33 @@
 ﻿@model IEnumerable<Product>
+@section Scripts {
+    <script src="~/client/polyfills.a151bed753c7da9d.js"></script>
+    <script src="~/client/runtime.01fec06f14767966.js"></script>
+    <script src="~/client/main.0ea5ba79ed07b6ce.js" asp-append-version="true"></script>
+}
+@section head {
+    <link href="~/client/styles.ef46db3751d8e999.css" rel="stylesheet" />
+}
 
-<h1>Shop</h1>
-<p>Count: @Model.Count()</p>
-<div class="row">
-    @foreach (var p in Model)
-    {
-        <div class="col-md-3">
-            <div class="border bg-light rouded p-1">
-                <img src="~/img/@(p.ArtId).jpg" class="img-fluid" alt="@p.Title" />
-                <h3>@p.Category - @p.Size </h3>
-                <ul>
-                    <li>Price: $@p.Price</li>
-                    <li>Artist: @p.Artist</li>
-                    <li>Title: @p.Title</li>
-                    <li>Description: @p.ArtDescription</li>
-                </ul>
-                <button id="buyButton" class="btn btn-success">Buy</button>
-            </div>
-        </div>
-    }
-</div>
+<the-shop></the-shop>
+
+@*<h1>Shop</h1>
+                        <p>Count: @Model.Count()</p>
+                        <div class="row">
+                            @foreach (var p in Model)
+                            {
+                                <div class="col-md-3">
+                                    <div class="border bg-light rouded p-1">
+                                        <img src="~/img/@(p.ArtId).jpg" class="img-fluid" alt="@p.Title" />
+                                        <h3>@p.Category - @p.Size </h3>
+                                        <ul>
+                                            <li>Price: $@p.Price</li>
+                                            <li>Artist: @p.Artist</li>
+                                            <li>Title: @p.Title</li>
+                                            <li>Description: @p.ArtDescription</li>
+                                        </ul>
+                                        <button id="buyButton" class="btn btn-success">Buy</button>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+*@

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XRFKc0FFJb5jT1GkOgZOwzjpYHaQTQKH4stD/XURqlsR1AG5SEH8mWyj237JGrXcZh5K27hyRDR7gdalp1oLqg==",
+  "dgSpecHash": "EUdlvxDLeNElWIAlsolzgA+5cZG4t5hhX11yN7urnLWLs32rO4T9e6AWfGy3i4bxjIc3FO+sLSsGERzixLsa7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\jkocevska\\source\\repos\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.typescript.msbuild\\4.6.4\\microsoft.typescript.msbuild.4.6.4.nupkg.sha512",
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\jkocevska\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",

@@ -431,3 +431,9 @@ C:\Users\jkocevska\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.ge
 C:\Users\jkocevska\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.AssemblyReference.cache
 C:\Users\jkocevska\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\tsconfig.json
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\client\angular.json
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\client\package-lock.json
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\client\package.json
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\client\tsconfig.app.json
+C:\Users\jkocevska\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\client\tsconfig.json
